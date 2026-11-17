@@ -1,0 +1,22 @@
+fua_code,city,country,times_in_top10,out_of,main_rank
+SE002F,Göteborg,Sweden,6,6,1.0
+AUS07F,Canberra,Australia,5,6,5.0
+DE089F,Lübeck,Germany,5,6,7.0
+NZL03F,Wellington,New Zealand,5,6,3.0
+UK007F,Edinburgh,United Kingdom,5,6,2.0
+DE037F,Saarbrücken,Germany,5,6,4.0
+DE049F,Flensburg,Germany,4,6,10.0
+UK004F,Glasgow,United Kingdom,4,6,6.0
+UK016F,Aberdeen,United Kingdom,4,6,8.0
+NO002F,Bergen,Norway,4,6,9.0
+NZL12F,Rotorua,New Zealand,2,6,16.0
+SE014F,Borås,Sweden,2,6,12.0
+DE052F,Neumünster,Germany,1,6,23.0
+DE125F,Jena,Germany,1,6,13.0
+FI002F,Tampere/Tammerfors,Finland,1,6,22.0
+DE028F,Weimar,Germany,1,6,15.0
+UK550F,Dundee City,United Kingdom,1,6,25.0
+IE004F,Galway,Ireland,1,6,14.0
+NZL05F,Tauranga,New Zealand,1,6,16.0
+DE036F,Kiel,Germany,1,6,11.0
+UK012F,Belfast,United Kingdom,1,6,18.0

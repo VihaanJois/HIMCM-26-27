@@ -1,0 +1,3 @@
+criterion,label,direction,years,cities_with_data,weight
+entertainment,Entertainment,higher,2026 (Wikidata snapshot),44,0.44852776043081094
+diversity,Diversity,higher,2013-2025,44,0.551472239569189

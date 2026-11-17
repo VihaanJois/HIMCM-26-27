@@ -1,0 +1,45 @@
+fua_code,rank,city,country,region,region_code,score,data_share,entertainment,diversity,venues,unemployment_source,diversity_source,lat,lon
+SE002F,1.0,Göteborg,Sweden,West Sweden,SE23,0.9922408209619895,1.0,4.77912349311153,28.3,118,city,city (Eurostat),57.70716,11.96679
+UK007F,2.0,Edinburgh,United Kingdom,Scotland,UKM,0.8233645713111721,1.0,4.919980925828125,20.9,136,region,city (Eurostat),55.95206,-3.19648
+NZL03F,3.0,Wellington,New Zealand,Wellington,NZ19,0.7838818199241645,1.0,3.4657359027997265,28.2,31,city,country (UN),-41.28664,174.77557
+DE037F,4.0,Saarbrücken,Germany,Saarland,DEC,0.7780096924398817,1.0,3.367295829986474,36.4,28,city,city (Eurostat),49.23262,7.00982
+AUS07F,5.0,Canberra,Australia,Australian Capital Territory,AU8,0.7603569832420429,1.0,3.258096538021482,28.7,25,city,region (OECD),-35.28346,149.12807
+UK004F,6.0,Glasgow,United Kingdom,Scotland,UKM,0.6978484398139432,1.0,5.003946305945459,15.4,148,region,city (Eurostat),55.86515,-4.25763
+DE089F,7.0,Lübeck,Germany,Schleswig-Holstein,DEF,0.6942879119263952,1.0,3.970291913552122,20.7,52,city,city (Eurostat),53.86893,10.68729
+UK016F,8.0,Aberdeen,United Kingdom,Scotland,UKM,0.6873463636113465,1.0,4.110873864173311,19.4,60,region,city (Eurostat),57.14369,-2.09814
+NO002F,9.0,Bergen,Norway,Western Norway,NO0A,0.6583958251326871,1.0,3.6635616461296463,21.3,38,city,city (Eurostat),60.39299,5.32415
+DE049F,10.0,Flensburg,Germany,Schleswig-Holstein,DEF,0.6213003784477126,1.0,2.3978952727983707,31.2,10,region,city (Eurostat),54.78805,9.43722
+DE036F,11.0,Kiel,Germany,Schleswig-Holstein,DEF,0.6182652068136586,1.0,3.4011973816621555,21.4,29,city,city (Eurostat),54.32133,10.13489
+SE014F,12.0,Borås,Sweden,West Sweden,SE23,0.601756918173467,1.0,2.833213344056216,24.7,16,region,city (Eurostat),57.72101,12.9401
+DE125F,13.0,Jena,Germany,Thuringia,DEG,0.5847027126915005,1.0,3.871201010907891,16.6,47,region,city (Eurostat),50.92878,11.5899
+IE004F,14.0,Galway,Ireland,Northern and Western,IE04,0.5622891414550881,1.0,2.772588722239781,23.4,15,city,region (OECD),53.27245,-9.05095
+DE028F,15.0,Weimar,Germany,Thuringia,DEG,0.5592210647511433,1.0,3.713572066704308,16.6,40,region,city (Eurostat),50.9803,11.32903
+NZL12F,16.0,Rotorua,New Zealand,Bay of Plenty,NZ14,0.5414309490494107,1.0,1.9459101490553132,28.2,6,region,country (UN),-38.13874,176.24516
+NZL05F,16.0,Tauranga,New Zealand,Bay of Plenty,NZ14,0.5414309490494107,1.0,1.0986122886681098,28.2,2,region,country (UN),-37.68611,176.16667
+UK012F,18.0,Belfast,United Kingdom,Northern Ireland,UKN,0.5164335548920941,1.0,4.5217885770490405,9.0,91,region,region (OECD),54.59682,-5.92541
+FI003F,19.0,Turku/Åbo,Finland,Southern Finland,FI1C,0.49700765474974784,1.0,3.5263605246161616,15.2,33,city,city (Eurostat),60.45148,22.26869
+NO003F,20.0,Trondheim,Norway,Trøndelag,NO06,0.47261770726330654,1.0,3.1354942159291497,16.9,22,city,city (Eurostat),63.43049,10.39506
+SE004F,21.0,Jönköping,Sweden,Småland with Islands,SE21,0.4654318178323946,1.0,3.091042453358316,16.9,21,region,city (Eurostat),57.78145,14.15618
+FI002F,22.0,Tampere/Tammerfors,Finland,Western Finland,FI19,0.46122147426138604,1.0,3.912023005428146,10.9,49,city,city (Eurostat),61.49911,23.78712
+DE052F,23.0,Neumünster,Germany,Schleswig-Holstein,DEF,0.45207861222587487,1.0,2.302585092994046,21.9,9,region,city (Eurostat),54.07399,9.98456
+DE030F,24.0,Erfurt,Germany,Thuringia,DEG,0.41313262652391447,1.0,3.332204510175204,12.9,27,city,city (Eurostat),50.97734,11.03536
+UK550F,25.0,Dundee City,United Kingdom,Scotland,UKM,0.40879626829797855,1.0,4.02535169073515,7.8,55,region,city (Eurostat),56.46913,-2.97489
+NO004F,26.0,Stavanger,Norway,Western Norway,NO0A,0.40521871839840246,1.0,2.9444389791664403,15.3,18,city,city (Eurostat),58.97005,5.73332
+DK003F,27.0,Odense,Denmark,Southern Denmark,DK03,0.3943126380701968,1.0,3.5263605246161616,10.7,33,city,region (OECD),55.39594,10.38831
+UK586F,28.0,Derry & Strabane Local Government District,United Kingdom,Northern Ireland,UKN,0.305810028763576,1.0,3.2188758248682006,9.0,24,region,region (OECD),54.9981,-7.30934
+DE040F,29.0,Rostock,Germany,Mecklenburg-Vorpommern,DE8,0.2979594787553158,1.0,2.9444389791664403,10.6,18,city,city (Eurostat),54.0887,12.14049
+DE029F,30.0,Schwerin,Germany,Mecklenburg-Vorpommern,DE8,0.26000329250787213,1.0,2.6390573296152584,11.1,13,region,city (Eurostat),53.62937,11.41316
+DE113F,31.0,Gera,Germany,Thuringia,DEG,0.2405114225258283,1.0,2.772588722239781,9.3,15,region,city (Eurostat),50.88029,12.08187
+FI007F,32.0,Lahti/Lahtis,Finland,Southern Finland,FI1C,0.23490006620842632,1.0,2.6390573296152584,10.0,13,region,city (Eurostat),60.98267,25.66151
+FI009F,33.0,Jyväskylä,Finland,Western Finland,FI19,0.2340603572658174,1.0,2.9444389791664403,7.8,18,region,city (Eurostat),62.24147,25.72088
+DE075F,34.0,Greifswald,Germany,Mecklenburg-Vorpommern,DE8,0.22367336909698876,1.0,2.4849066497880004,10.6,11,region,city (Eurostat),54.08905,13.40244
+DE061F,35.0,Neubrandenburg,Germany,Mecklenburg-Vorpommern,DE8,0.19591479824619457,1.0,2.3978952727983707,10.0,10,region,city (Eurostat),53.55735,13.26105
+FI004F,36.0,Oulu/Uleåborg,Finland,Northern and Eastern Finland,FI1D,0.1955410744187986,1.0,2.833213344056216,6.9,16,city,city (Eurostat),65.01236,25.46816
+UK551F,37.0,Falkirk,United Kingdom,Scotland,UKM,0.14989884478344256,1.0,2.833213344056216,4.9,16,region,city (Eurostat),56.0021,-3.78535
+FI008F,38.0,Kuopio,Finland,Northern and Eastern Finland,FI1D,0.1323889098262767,1.0,2.4849066497880004,6.6,11,region,city (Eurostat),62.89238,27.67703
+HU002F,39.0,Miskolc,Hungary,Northern Hungary,HU31,0.09683341632863209,1.0,2.5649493574615367,4.0,12,city,city (Eurostat),48.10327,20.77806
+DE068F,40.0,Stralsund,Germany,Mecklenburg-Vorpommern,DE8,0.08389404083871098,1.0,2.4849066497880004,4.4,11,region,city (Eurostat),54.30911,13.0818
+ES017F,41.0,Badajoz,Spain,Extremadura,ES43,0.08131918417092018,1.0,2.1972245773362196,6.4,8,region,city (Eurostat),38.87789,-6.97061
+ES031F,42.0,Cáceres,Spain,Extremadura,ES43,0.0599967507285724,1.0,2.0794415416798357,6.3,7,region,city (Eurostat),39.47649,-6.37224
+ES092F,43.0,Mérida,Spain,Extremadura,ES43,0.04164853454226235,1.0,1.6094379124341003,6.3,4,region,city (Eurostat),38.91802,-6.34292
+HU016F,44.0,Eger,Hungary,Northern Hungary,HU31,0.018348216186310055,1.0,2.0794415416798357,3.8,7,region,city (Eurostat),47.90265,20.37329
