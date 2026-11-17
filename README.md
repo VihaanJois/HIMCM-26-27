@@ -15,10 +15,10 @@
 
 HIMCM (the High School Mathematical Contest in Modeling) is a math modeling competition in which a team of four works together to solve one problem. This year, our team of Teja, Vihaan, Aarit and August tackled the question of **where the best place to live is**. We took a unique approach: instead of scoring every city in the world at once, our model narrows the world down in three rounds, like a tournament.
 
-- 🌍 **Three-tier funnel:** countries → regions → cities
-- 📊 **Data-driven weights:** the entropy method lets the data decide how much each criterion counts
-- 🔁 **No double counting:** every criterion is used in exactly one tier
-- ✅ **Tested for robustness:** equal weights, leave-one-out and missing-data checks
+- **Three-tier funnel:** countries → regions → cities
+- **Data-driven weights:** the entropy method lets the data decide how much each criterion counts
+- **No double counting:** every criterion is used in exactly one tier
+- **Tested for robustness:** equal weights, leave-one-out and missing-data checks
 
 ## How the model works
 
